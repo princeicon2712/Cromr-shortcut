@@ -2,7 +2,9 @@
 
 (1) New Tab = ctrl+t নিউটেপ অপেন হবে।
 
-(2) New tap back = ctrl+shift+t ডিলেট টেপ ব্যাক আনা। 
+(2) New tap back = ctrl+shift+t ডিলেট টেপ ব্যাক আনা।
+
+ctrl চাপ রেখে যে সাইটে টিপ দিব ঐটা নতুন tap open হবে 
 
 (২) New crome =ctrl+n নতুন কোম
 
